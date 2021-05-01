@@ -3,3 +3,6 @@
 ![WeChat Image_20210502000436 (Small)](https://user-images.githubusercontent.com/49461855/116784902-12352f80-aada-11eb-93c1-afde87bab7f9.jpg)
 # Weather_WIFI
 https://www.instructables.com/Esp8266-Weather-Data-Parser-Openweathermap/
+
+
+Added DHT22 to the source code
